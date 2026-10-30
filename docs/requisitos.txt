@@ -1,0 +1,2 @@
+REQUISITOS
+RF01: El sistema debe permitir registrar la matricula de un estudiante.

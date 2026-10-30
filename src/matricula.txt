@@ -1,0 +1,4 @@
+MODULO MATRICULA
+1. El estudiante inicia sesion.
+2. Selecciona los cursos del periodo.
+3. El sistema registra la matricula.
